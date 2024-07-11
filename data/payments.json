@@ -1,0 +1,13 @@
+[
+    { "paymentId": 1, "orderId": 1, "customerId": 1, "amount": 30, "date": "2023-07-10" },
+    { "paymentId": 2, "orderId": 2, "customerId": 2, "amount": 25, "date": "2023-07-11" },
+    { "paymentId": 3, "orderId": 3, "customerId": 3, "amount": 20, "date": "2023-07-12" },
+    { "paymentId": 4, "orderId": 4, "customerId": 4, "amount": 72, "date": "2023-07-13" },
+    { "paymentId": 5, "orderId": 5, "customerId": 5, "amount": 70, "date": "2023-07-14" },
+    { "paymentId": 6, "orderId": 6, "customerId": 6, "amount": 40, "date": "2023-07-15" },
+    { "paymentId": 7, "orderId": 7, "customerId": 7, "amount": 56, "date": "2023-07-16" },
+    { "paymentId": 8, "orderId": 8, "customerId": 8, "amount": 36, "date": "2023-07-17" },
+    { "paymentId": 9, "orderId": 9, "customerId": 9, "amount": 80, "date": "2023-07-18" },
+    { "paymentId": 10, "orderId": 10, "customerId": 10, "amount": 25, "date": "2023-07-19" }
+  ]
+  

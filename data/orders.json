@@ -1,0 +1,13 @@
+[
+    { "orderId": 1, "customerId": 1, "product": "Phone", "quantity": 2, "price": 15, "date": "2023-07-10" ,"customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com"},
+    { "orderId": 2, "customerId": 2, "product": "Tablet", "quantity": 1, "price": 25, "date": "2023-07-11","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 3, "customerId": 3, "product": "Laptop", "quantity": 1, "price": 20, "date": "2023-07-12","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 4, "customerId": 4, "product": "Microphone", "quantity": 4, "price": 18, "date": "2023-07-13","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 5, "customerId": 5, "product": "Earphones", "quantity": 2, "price": 35, "date": "2023-07-14","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 6, "customerId": 6, "product": "Jacket", "quantity": 1, "price": 22, "date": "2023-07-15","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 7, "customerId": 7, "product": "Shirt", "quantity": 2, "price": 28, "date": "2023-07-16","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 8, "customerId": 8, "product": "Shorts", "quantity": 3, "price": 12, "date": "2023-07-17","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 9, "customerId": 9, "product": "Pants", "quantity": 2, "price": 40, "date": "2023-07-18","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" },
+    { "orderId": 10, "customerId": 10, "product": "Gazebo", "quantity": 1, "price": 25, "date": "2023-07-19","customerPhone": "+919159231586","customerEmail":"davidsundi13@gmail.com" }
+  ]
+  

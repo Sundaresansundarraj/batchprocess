@@ -1,0 +1,13 @@
+[
+    { "shipmentId": 1, "orderId": 1, "customerId": 1, "status": "shipped", "date": "2023-07-11" },
+    { "shipmentId": 2, "orderId": 2, "customerId": 2, "status": "shipped", "date": "2023-07-12" },
+    { "shipmentId": 3, "orderId": 3, "customerId": 3, "status": "shipped", "date": "2023-07-13" },
+    { "shipmentId": 4, "orderId": 4, "customerId": 4, "status": "shipped", "date": "2023-07-14" },
+    { "shipmentId": 5, "orderId": 5, "customerId": 5, "status": "shipped", "date": "2023-07-15" },
+    { "shipmentId": 6, "orderId": 6, "customerId": 6, "status": "shipped", "date": "2023-07-16" },
+    { "shipmentId": 7, "orderId": 7, "customerId": 7, "status": "shipped", "date": "2023-07-17" },
+    { "shipmentId": 8, "orderId": 8, "customerId": 8, "status": "shipped", "date": "2023-07-18" },
+    { "shipmentId": 9, "orderId": 9, "customerId": 9, "status": "shipped", "date": "2023-07-19" },
+    { "shipmentId": 10, "orderId": 10, "customerId": 10, "status": "shipped", "date": "2023-07-20" }
+  ]
+  

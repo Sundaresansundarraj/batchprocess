@@ -1,0 +1,13 @@
+[
+    { "customerId": 1, "name": "John Doe", "address": "123 Main St", "email": "john@example.com", "purchaseHistory": [] },
+    { "customerId": 2, "name": "Jane Smith", "address": "456 Oak Ave", "email": "jane@example.com", "purchaseHistory": [] },
+    { "customerId": 3, "name": "Michael Brown", "address": "789 Elm Blvd", "email": "michael@example.com", "purchaseHistory": [] },
+    { "customerId": 4, "name": "Emily Johnson", "address": "101 Pine Rd", "email": "emily@example.com", "purchaseHistory": [] },
+    { "customerId": 5, "name": "David Wilson", "address": "222 Cedar Ln", "email": "david@example.com", "purchaseHistory": [] },
+    { "customerId": 6, "name": "Sarah Martinez", "address": "333 Birch Dr", "email": "sarah@example.com", "purchaseHistory": [] },
+    { "customerId": 7, "name": "Christopher Taylor", "address": "444 Maple Ave", "email": "chris@example.com", "purchaseHistory": [] },
+    { "customerId": 8, "name": "Lisa Garcia", "address": "555 Pinecrest Rd", "email": "lisa@example.com", "purchaseHistory": [] },
+    { "customerId": 9, "name": "Matthew Rodriguez", "address": "666 Oakwood Ln", "email": "matthew@example.com", "purchaseHistory": [] },
+    { "customerId": 10, "name": "Laura Hernandez", "address": "777 Elmwood Blvd", "email": "laura@example.com", "purchaseHistory": [] }
+  ]
+  

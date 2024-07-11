@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "product": "Phone",
+    "stock": 94
+  },
+  {
+    "productId": 2,
+    "product": "Tablet",
+    "stock": 47
+  },
+  {
+    "productId": 3,
+    "product": "Laptop",
+    "stock": 72
+  },
+  {
+    "productId": 4,
+    "product": "Microphone",
+    "stock": 188
+  },
+  {
+    "productId": 5,
+    "product": "Earphones",
+    "stock": 144
+  },
+  {
+    "productId": 6,
+    "product": "Jacket",
+    "stock": 77
+  },
+  {
+    "productId": 7,
+    "product": "Shirt",
+    "stock": 114
+  },
+  {
+    "productId": 8,
+    "product": "Shorts",
+    "stock": 81
+  },
+  {
+    "productId": 9,
+    "product": "Pants",
+    "stock": 54
+  },
+  {
+    "productId": 10,
+    "product": "Gazebo",
+    "stock": 27
+  }
+]
